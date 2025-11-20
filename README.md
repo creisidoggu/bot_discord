@@ -89,7 +89,7 @@ Cada comando está en su propio archivo siguiendo el principio de **Single Respo
 ### Paso 1: Clonar o Descargar el Proyecto
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/creisidoggu/bot_discord.git
 cd proyecto_bot
 ```
 
